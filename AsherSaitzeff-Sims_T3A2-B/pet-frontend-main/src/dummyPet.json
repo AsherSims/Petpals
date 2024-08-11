@@ -1,0 +1,45 @@
+{
+    "pets": [
+      {
+        "id": 1,
+        "name": "Bella",
+        "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAA",
+        "age": 3,
+        "gender": "Female",
+        "temperament": "Playful, Friendly"
+      },
+      {
+        "id": 2,
+        "name": "Max",
+        "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/3wABCA",
+        "age": 5,
+        "gender": "Male",
+        "temperament": "Energetic, Protective"
+      },
+      {
+        "id": 3,
+        "name": "Lucy",
+        "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/1wFBA",
+        "age": 2,
+        "gender": "Female",
+        "temperament": "Calm, Gentle"
+      },
+      {
+        "id": 4,
+        "name": "Charlie",
+        "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4xCAA",
+        "age": 4,
+        "gender": "Male",
+        "temperament": "Curious, Affectionate"
+      },
+      {
+        "id": 5,
+        "name": "Molly",
+        "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/5wAAA",
+        "age": 1,
+        "gender": "Female",
+        "temperament": "Lively, Social"
+      }
+    ]
+  }
+  
